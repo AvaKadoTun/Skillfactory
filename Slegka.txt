@@ -5,3 +5,4 @@
 =======
 ;jjjjgf
 >>>>>>> parent of 7342ec5... Izmena 2
+doop
